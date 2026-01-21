@@ -16,9 +16,13 @@ Users can:
 4. Filter variants by patient, gene, chromosome, or genomic location.  
 5. Recommend variants based on relevant genes for a patient's phenotypes.
 
+For the complete implementation and usage examples, see:
+- Full code: `scripts/variant_explorer.py`
+- Usage example: `demo/variant_explorer_demo.py`
+
 ## Features
 
 - Object-oriented design with Python classes for patients, phenotypes, and variants.  
 - Modular and reusable code structure.  
 - Console-based menus for interactive exploration.  
-- Built-in error handling for missing or inconsistent input data.  
+- Built-in error handling for missing or inconsistent input data.
