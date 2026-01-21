@@ -18,7 +18,7 @@ Users can:
 
 For the complete implementation and usage examples, see:
 - Full code: [`scripts/variant_explorer.py`](scripts/variant_explorer.py)
-- Usage example: [`demo/variant_explorer_demo.py`](demo/variant_explorer_demo.py)
+- Usage example: [`demo/variant_explorer_demo.html`](demo/variant_explorer_demo.html)
 
 ## Features
 
