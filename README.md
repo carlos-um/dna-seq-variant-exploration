@@ -26,3 +26,16 @@ For the complete implementation and usage examples, see:
 - Modular and reusable code structure.  
 - Console-based menus for interactive exploration.  
 - Built-in error handling for missing or inconsistent input data.
+
+---
+
+## Author
+
+**Carlos C. Ureña Mateo**  
+MSc Bioinformatics – University of Murcia
+
+---
+
+## License
+
+This repository is provided for academic and research purposes. Please cite the original project report if used in your work.
